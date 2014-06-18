@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<cuaca>
+	<tahun id="2014">
+		<bulan id="januari">
+			<tanggal id="1" name="Senin">Hujan</tanggal>
+			<tanggal id="2" name="Selasa">Cerah</tanggal>
+			<tanggal id="3" name="Rabu">Berawan</tanggal>
+			<tanggal id="4" name="Kamis">Cerah</tanggal>
+			<tanggal id="5" name="Jumat">Hujan</tanggal>
+			<tanggal id="6" name="Sabtu">Berawan</tanggal>
+			<tanggal id="7" name="Minggu">Berawan</tanggal>
+			<tanggal id="8" name="Senin">Hujan</tanggal>
+			<tanggal id="9" name="Selasa">Cerah</tanggal>
+			<tanggal id="10" name="Rabu">Hujan</tanggal>
+			<tanggal id="11" name="Kamis">Berawan</tanggal>
+			<tanggal id="12" name="Jumat">Hujan</tanggal>
+			<tanggal id="13" name="Sabtu">Hujan</tanggal>
+			<tanggal id="14" name="Minggu">Hujan</tanggal>
+		</bulan>
+	</tahun>
+</cuaca>
+
